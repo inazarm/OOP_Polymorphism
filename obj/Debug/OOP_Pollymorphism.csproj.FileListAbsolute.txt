@@ -1,0 +1,7 @@
+C:\Users\inaza\source\repos\OOP_Pollymorphism\OOP_Pollymorphism\bin\Debug\OOP_Pollymorphism.exe.config
+C:\Users\inaza\source\repos\OOP_Pollymorphism\OOP_Pollymorphism\bin\Debug\OOP_Pollymorphism.exe
+C:\Users\inaza\source\repos\OOP_Pollymorphism\OOP_Pollymorphism\bin\Debug\OOP_Pollymorphism.pdb
+C:\Users\inaza\source\repos\OOP_Pollymorphism\OOP_Pollymorphism\obj\Debug\OOP_Pollymorphism.csprojAssemblyReference.cache
+C:\Users\inaza\source\repos\OOP_Pollymorphism\OOP_Pollymorphism\obj\Debug\OOP_Pollymorphism.csproj.CoreCompileInputs.cache
+C:\Users\inaza\source\repos\OOP_Pollymorphism\OOP_Pollymorphism\obj\Debug\OOP_Pollymorphism.exe
+C:\Users\inaza\source\repos\OOP_Pollymorphism\OOP_Pollymorphism\obj\Debug\OOP_Pollymorphism.pdb
